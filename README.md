@@ -1,4 +1,4 @@
-## PakinCheckTemp
+## AnyWeather
 - A website for monitoring weather in any cities around the world, integrated with OpenWeather API.
 - Visit here: https://oatkup1a.github.io/PakinCheckTemp/
 
